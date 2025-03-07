@@ -1,0 +1,10 @@
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\bin\Debug\Lab1_bai1.exe.config
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\bin\Debug\Lab1_bai1.exe
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\bin\Debug\Lab1_bai1.pdb
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.csproj.AssemblyReference.cache
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.Form1.resources
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.Properties.Resources.resources
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.csproj.GenerateResource.cache
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.csproj.CoreCompileInputs.cache
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.exe
+D:\Môn học chính\Lập trình Mạng\Lab1_bai1\Lab1_bai1\obj\Debug\Lab1_bai1.pdb
