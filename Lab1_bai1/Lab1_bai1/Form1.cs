@@ -67,8 +67,9 @@ namespace Lab1_bai1
             try
             {
                 int num1 = Int32.Parse(textBox1.Text);
+                long mul = num1;
                 int num2 = Int32.Parse(textBox2.Text);
-                long mul = (long)num1 * (long)num2;
+                mul *= num2;
                 textBox3.Text = mul.ToString();
             }
             catch
