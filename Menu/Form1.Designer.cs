@@ -38,9 +38,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(48, 197);
+            this.button1.Location = new System.Drawing.Point(32, 126);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(133, 65);
+            this.button1.Size = new System.Drawing.Size(89, 42);
             this.button1.TabIndex = 0;
             this.button1.Text = "Bài 1";
             this.button1.UseVisualStyleBackColor = true;
@@ -48,9 +49,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(48, 349);
+            this.button2.Location = new System.Drawing.Point(32, 223);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(133, 65);
+            this.button2.Size = new System.Drawing.Size(89, 42);
             this.button2.TabIndex = 1;
             this.button2.Text = "Bài 2";
             this.button2.UseVisualStyleBackColor = true;
@@ -58,9 +60,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(428, 197);
+            this.button3.Location = new System.Drawing.Point(285, 126);
+            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(133, 65);
+            this.button3.Size = new System.Drawing.Size(89, 42);
             this.button3.TabIndex = 2;
             this.button3.Text = "Bài 3";
             this.button3.UseVisualStyleBackColor = true;
@@ -68,9 +71,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(428, 349);
+            this.button4.Location = new System.Drawing.Point(285, 223);
+            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(133, 65);
+            this.button4.Size = new System.Drawing.Size(89, 42);
             this.button4.TabIndex = 3;
             this.button4.Text = "Bài 4";
             this.button4.UseVisualStyleBackColor = true;
@@ -78,9 +82,10 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(781, 197);
+            this.button5.Location = new System.Drawing.Point(521, 126);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(133, 65);
+            this.button5.Size = new System.Drawing.Size(89, 42);
             this.button5.TabIndex = 4;
             this.button5.Text = "Bài 5";
             this.button5.UseVisualStyleBackColor = true;
@@ -90,25 +95,28 @@
             // 
             this.textBox1.BackColor = System.Drawing.SystemColors.Menu;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(256, 58);
+            this.textBox1.Location = new System.Drawing.Point(171, 37);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(579, 67);
+            this.textBox1.Size = new System.Drawing.Size(387, 45);
             this.textBox1.TabIndex = 5;
             this.textBox1.Text = "Danh Sách Bài Tập ";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1024, 539);
+            this.ClientSize = new System.Drawing.Size(683, 345);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Menu Homework";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
